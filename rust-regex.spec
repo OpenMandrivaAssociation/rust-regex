@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        1.4.5
-Release:        1
+Release:        2
 Summary:        Implementation of regular expressions for Rust
 
 # Upstream license specification: MIT OR Apache-2.0
