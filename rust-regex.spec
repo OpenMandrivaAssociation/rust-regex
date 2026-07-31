@@ -5,8 +5,8 @@
 %global crate regex
 
 Name:           rust-%{crate}
-Version:        1.4.5
-Release:        2
+Version:        1.13.1
+Release:        1
 Summary:        Implementation of regular expressions for Rust
 
 # Upstream license specification: MIT OR Apache-2.0
